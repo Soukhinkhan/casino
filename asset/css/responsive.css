@@ -1,0 +1,114 @@
+/* XL Device :1200px. */
+@media (min-width: 375px) and (max-width: 500px) {
+.our-about h2{
+  padding: none;
+  text-align: center;
+}
+.our-about p{
+  font-size: 20px;
+  text-align: center;
+}
+.our-about button{
+  margin-bottom: 20px;
+}
+.our-img img{
+  margin-top: 20px;
+} 
+.heading p{
+  text-align: center;
+  font-size: 20px;
+}
+.card img{
+  height: 300px;
+}
+.bt button{
+  margin-bottom: 20px;
+}
+.carousel-control-prev .carousel-control-prev-icon{
+  display: none;
+}
+.carousel-control-next .carousel-control-next-icon{
+  display: none;
+}
+.our-about{
+  text-align: center;
+}
+.map iframe{
+  width: 363px;
+  height: 300px;
+}
+
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .our-about{
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  }
+/* LG Device :992px. */
+@media (min-width: 820px) and (max-width: 1200px) {
+.our-about{
+  text-align: center;
+  margin-bottom: 20px;
+}
+}
+/* MD Device :768px. */
+@media (min-width: 540px) and (max-width: 767px) {
+  .our-about{
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+}
+/* Extra small Device. */
+@media (max-width: 360px) {
+  .map iframe{
+    width: 340px;
+    height: 300px;
+  }
+ 
+}
+@media (max-width: 820px) {
+  .map iframe{
+    width: 700px;
+    height: 300px;
+  }
+ 
+}
+@media (max-width: 912px) {
+  .map iframe{
+    width: 700px;
+    height: 300px;
+  }
+ 
+}
+@media (max-width: 540px) {
+  .map iframe{
+    width: 510px;
+    height: 300px;
+  }
+ 
+}
+@media (max-width: 280px) {
+  .map iframe{
+    width: 270px;
+    height: 300px;
+  }
+ 
+}
+@media (max-width: 1024px) {
+  .map iframe{
+    width: 470px;
+    height: 300px;
+  }
+ 
+}
+@media (max-width: 412px) {
+  .map iframe{
+    width: 400px;
+    height: 300px;
+  }
+ 
+}
+ 
+/* SM Small Device :550px. */

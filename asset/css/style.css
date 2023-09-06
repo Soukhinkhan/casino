@@ -1,0 +1,252 @@
+/*header-section*/
+.navbar{
+    background-image: url(/asset/images/logo-background.png);
+}
+.carousel-item{
+    margin-bottom: 134px;
+}
+.carousel-item h3{
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 108px;
+}
+.carousel-item h1{
+    font-size: 44px;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+}
+.carousel-item p{
+    font-size: 17px;
+    line-height: 28px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Roboto";
+    text-align: center;
+    margin-top: 30px;
+}
+.carousel {
+    margin: auto;
+}
+/*about-section*/
+.about{
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+.our-about h2{
+    margin-top: 40px;
+    font-size: 35px;
+    line-height: 70px;
+    text-transform: uppercase;
+    color: #010304;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+.our-about button{
+    width: 150px;
+    height: 51px;
+    border-radius: 29px;
+    background-color: #000;
+    border: 3.15px solid #fff;
+}
+.our-about p{
+    font-size: 17px;
+    line-height: 30px;
+    color: #010304;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+/*card-section*/
+.main-card{
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+.heading{
+    margin-bottom: 30px;
+}
+.heading h2{
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #1b1e15;
+    font-weight: 700;
+    font-family: "Roboto";
+    text-align: center;
+}
+.heading p{
+    font-size: 17px;
+    line-height: 30px;
+    color: #010304;
+    font-weight: 400;
+    font-family: "Roboto";
+    text-align: center;
+}
+.col-lg-3 .card{
+    border-radius: 40px;
+}
+.card-body{
+    background-color: #010304;
+}
+.card-body p{
+    color: #fff;
+    text-align: center;
+}
+.card-body h2{
+    color: #fff;
+    text-align: center;
+}
+.main-main img{
+    background-color: #111111;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.card-body{
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.my-btt button{
+    border-radius: 25px;
+}
+/*play-section*/
+.play{
+    margin-top: 50px;
+    background-color: #111111;
+}
+.heading-my h2{
+    color: #fff;
+}
+.heading-my p{
+    color: #fff;
+}
+.may-one{
+    border: 2px solid #fff;
+    border-radius: 15px;
+}
+.may-one img{
+    margin: 55px;
+}
+.my-two img{
+    margin: 50px;
+}
+.my-three img{
+    margin: 50px;
+}
+/*plan-section*/
+.plan{
+    margin-top: 60px;
+    background-color: #fff;
+}
+.heddd h2{
+    font-size: 35px;
+    line-height: 30px;
+    color: #121212;
+    font-weight: 700;
+    font-family: "Roboto";
+    text-align: center;
+}
+.heddd p{
+    margin-top: 10px;
+    font-size: 17px;
+    line-height: 26px;
+    color: #505050;
+    font-weight: 400;
+    font-family: "Roboto";
+    text-align: center;
+}
+.basic-plan{
+    margin-top: 40px;
+    border: 2px solid #B4B4B4;
+    padding: 40px;
+    border-radius: 25px;
+}
+.basic-plan h6{
+    font-size: 20px;
+    line-height: 26px;
+    color: #bf3d42;
+    font-weight: 700;
+    font-family: "Poppins";
+    text-align: center;
+}
+.basic-plan h1{
+    font-size: 50px;
+    line-height: 26px;
+    color: #000;
+    font-weight: bold;
+    font-family: "Poppins";
+    text-align: center;
+}
+.basic-plan h1 span{
+    font-size: 17px;
+}
+.basic-plan p{
+    font-size: 17px;
+    line-height: 27px;
+    color: #505050;
+    font-weight: 400;
+    font-family: "Roboto";
+    text-align: center;
+}
+/*slider-section*/
+.slider{
+    margin-top: 60px;
+}
+.hbb h2{
+    font-size: 35px;
+    line-height: 27px;
+    color: #110f0f;
+    font-weight: 700;
+    font-family: "Roboto";
+    text-align: center;
+}
+.carousel-control-prev-icon{
+    background-color: #BF3D41;
+    border-radius: 20px;
+}
+.carousel-control-next-icon{
+    background-color: #BF3D41;
+    border-radius: 20px;
+}
+.others p{
+    font-size: 17px;
+    line-height: 30px;
+    color: #1a1a1b;
+    font-weight: 400;
+    font-family: "Roboto";
+    text-align: center;
+}
+.others p i{
+    margin: 8px;
+    color: #6E6E6E;
+}
+.others h6{
+    margin-top: 10px;
+    font-size: 19px;
+    line-height: 30px;
+    color: #000000;
+    font-weight: 400;
+    font-family: "Roboto";
+    text-align: center;
+}
+/*from-section*/
+.maim h2{
+    font-size: 35px;
+    line-height: 15px;
+    color: #0a0909;
+    font-weight: 700;
+    font-family: "Roboto";
+    text-align: center;
+    margin-bottom: 60px;
+    padding-top: 40px;
+}
+.my-map{
+    box-shadow: 0 0 0 13px #fff;
+}
+.my-from{
+    margin-bottom: 20px;
+    background-color: #F9F9F9;
+}
+/*footer-section*/
+.footer{
+    background-color: #000;
+}
