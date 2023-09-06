@@ -1,6 +1,6 @@
 /*header-section*/
 .navbar{
-    background-image: url(/asset/images/logo-background.png);
+    background-image: url(../images/logo-background.png);
 }
 .carousel-item{
     margin-bottom: 134px;
